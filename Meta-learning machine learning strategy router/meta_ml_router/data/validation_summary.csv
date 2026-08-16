@@ -1,0 +1,3 @@
+dataset,router_recommendation,router_confidence,brute_force_best,match
+Iris (classification),KNN,0.66,KNN,True
+Diabetes (regression),Ridge,1.0,Ridge,True
